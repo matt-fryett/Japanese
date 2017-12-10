@@ -1,5 +1,5 @@
 git checkout dev
-git add .
+git add -A
 git commit -am "made changes"
 git push
 echo Press Enter...
